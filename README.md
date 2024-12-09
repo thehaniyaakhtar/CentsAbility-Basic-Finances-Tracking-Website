@@ -1,2 +1,4 @@
 # CentsAbility-Basic-Finances-Tracking-Website
-CentsAbility is a foundational-level website project designed to showcase basic web development concepts. It features essential front-end and back-end integration, responsive design, and simple navigation. Perfect for beginners, this project focuses on the core elements of website creation.
+CentsAbility is a foundational-level project focused on website development, designed to demonstrate essential concepts and functionalities for building a basic, fully functional website. This project emphasizes simplicity and clarity in its structure, showcasing core web development skills such as responsive design, intuitive navigation, and essential front-end and back-end integration. Ideal for those starting their journey in web development, CentsAbility serves as a practical example of creating a structured and operational website.
+
+# Installation Instructions
