@@ -3,12 +3,17 @@ CentsAbility is a beginner-level project focused on website development, designe
 
 # Usage:
 -Open the website in your browser (e.g., http://localhost:3000).
+
 -Use the navigation bar to access features like "Add Income," "Track Expenses," and "View Summary."
+
 -Input financial details into the respective forms and save them to view the updates in the summary section.
 
 
 # Features:
 -Add, view, and manage income and expenses.
+
 -Summary section to display total income, expenses, and balance.
+
 -Responsive and user-friendly interface.
+
 -Basic financial data storage during the session.
